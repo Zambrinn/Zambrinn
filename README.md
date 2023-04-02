@@ -11,9 +11,6 @@ Eu sou o Thiago :blush: , um programador front-end aprendendo cada vez mais! Atu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zambrinn)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-<a href="https://www.instagram.com/thiago.zambrin/">
-<img align="left" src="https://img.freepik.com/vetores-premium/logo-de-midia-social-quadrado-preto_197792-3367.jpg" alt="logo-instagram" width="65px" height="65px">
-</a>
 <a href="https://twitter.com/zambrinn">
 <img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/twitter_black_logo_icon_147062.png" alt="twitter-logo" width="50px" height="50px" align="left" >
 </a>
