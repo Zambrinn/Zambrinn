@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/SEU_USER_ID" width="150" height="150" style="border-radius:50%;" alt="Sua foto de perfil">
   <h1>Olá! Eu sou o Thiago Zambrin 👋</h1>
   <p>Sou um desenvolvedor full-stack de 18 anos, com paixão por criar soluções robustas e intuitivas.</p>
   <p>Atualmente, estou focado em aprimorar minhas habilidades e construir projetos inovadores. Sempre em busca de novos desafios!</p>
@@ -34,14 +33,11 @@
 ### 📫 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil-do-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/thiagozambrin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="mailto:seu-email@example.com" target="_blank">
+  <a href="mailto:zambrinfilho@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-  </a>
-  <a href="https://twitter.com/seu-perfil-do-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
   </a>
   <a href="https://seu-portfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge">
