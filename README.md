@@ -21,10 +21,10 @@
 
 <p align="center">
   <a href="https://github.com/Zambrinn">
-    <img src="https://github-readme-stats.vercel.app/api?username=Seu-Nome-De-Usuario&show_icons=true&theme=dark&include_all_commits=true" alt="Thiago's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Zambrinn&show_icons=true&theme=dark&include_all_commits=true" alt="Thiago's GitHub stats">
   </a>
   <a href="https://github.com/Zambrinn">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seu-Nome-De-Usuario&layout=compact&theme=dark" alt="Thiago's Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zambrinn&layout=compact&theme=dark" alt="Thiago's Top Languages">
   </a>
 </p>
 
