@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá! Eu sou o Thiago Zambrin 👋</h1>
-  <p>Sou um desenvolvedor full-stack de 18 anos, com paixão por criar soluções robustas e intuitivas.</p>
+  <p>Sou um desenvolvedor full-stack de 19 anos, com paixão por criar soluções robustas e intuitivas.</p>
   <p>Atualmente, estou focado em aprimorar minhas habilidades e construir projetos inovadores. Sempre em busca de novos desafios!</p>
 </div>
 
