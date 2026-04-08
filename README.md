@@ -1,5 +1,3 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=60&lines=Olá+👋+I'm+Thiago+Zambrin;Full-Stack+Developer;Crafting+Digital+Solutions" alt="Typing SVG" /></a>
-
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagozambrin/)
@@ -92,28 +90,8 @@ and expand my technical expertise.
 
 ---
 
-## 🎨 Featured Projects
-
-> *Coming soon with amazing projects that showcase my skills and passion*
-
-<div align="center">
-  
-  ```
-  ┌─────────────────────────────────────────────────────────┐
-  │  🚀 Exciting Projects Under Development                 │
-  │  Stay tuned for innovative solutions in Web3, AI, and   │
-  │  scalable backend systems!                              │
-  └─────────────────────────────────────────────────────────┘
-  ```
-  
-</div>
-
----
-
 ## 🎯 What I'm Working On
 
-- 🔧 Building robust **full-stack applications** with modern technologies
-- 📱 Developing responsive and intuitive **user interfaces**
 - 🛡️ Implementing **secure authentication & authorization** systems
 - ⚡ Optimizing **performance** and **scalability** of applications
 - 🧪 Writing clean, testable, and maintainable code
